@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108705398599",
+    "firebase_url": "https://task-internship.firebaseio.com",
+    "project_id": "task-internship",
+    "storage_bucket": "task-internship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108705398599:android:3fc70699c8ec57c14ad662",
+        "android_client_info": {
+          "package_name": "com.vWrkOnDroid.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108705398599-5m9o9i7eot20hlntu60qva5rrer80ae1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vWrkOnDroid.attendance",
+            "certificate_hash": "37c0508b998981f51f21c4d9b53756c5eb71fd1d"
+          }
+        },
+        {
+          "client_id": "108705398599-o0n0a81r5tif060ei3h1acg2jiriv2e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8V21x9h3YUGuIH8NEQftZrwyAHydpUBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108705398599-o0n0a81r5tif060ei3h1acg2jiriv2e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
